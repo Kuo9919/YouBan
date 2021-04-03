@@ -1,0 +1,251 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.poemzj"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->E:\Code\Android\You\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="25" />
+9-->E:\Code\Android\You\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:6:5-67
+11-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:7:5-81
+12-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:7:22-78
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:8:5-80
+13-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:8:22-77
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:9:5-79
+14-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:9:22-76
+15    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+15-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:10:5-76
+15-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:10:22-73
+16    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+16-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:11:5-76
+16-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:11:22-73
+17    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+17-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:12:5-75
+17-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:12:22-72
+18    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+18-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:13:5-81
+18-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:13:22-78
+19    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+19-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:14:5-79
+19-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:14:22-76
+20    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+20-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:15:5-89
+20-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:15:22-86
+21    <uses-permission android:name="android.permission.BLUETOOTH" />
+21-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:16:5-68
+21-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:16:22-65
+22    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+22-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:17:5-74
+22-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:17:22-71
+23    <uses-permission android:name="android.permission.WAKE_LOCK" />
+23-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:18:5-68
+23-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:18:22-65
+24    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+24-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:19:5-71
+24-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:19:22-68
+25    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+25-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:20:5-22:47
+25-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:21:9-57
+26
+27    <meta-data
+27-->[com.android.support:design:25.3.1] C:\Users\Longel\.gradle\caches\transforms-2\files-2.1\4af7e9c56e58323565e2a476a0fedfc9\design-25.3.1\AndroidManifest.xml:25:5-27:34
+28        android:name="android.support.VERSION"
+28-->[com.android.support:design:25.3.1] C:\Users\Longel\.gradle\caches\transforms-2\files-2.1\4af7e9c56e58323565e2a476a0fedfc9\design-25.3.1\AndroidManifest.xml:26:9-47
+29        android:value="25.3.1" />
+29-->[com.android.support:design:25.3.1] C:\Users\Longel\.gradle\caches\transforms-2\files-2.1\4af7e9c56e58323565e2a476a0fedfc9\design-25.3.1\AndroidManifest.xml:27:9-31
+30
+31    <application
+31-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:24:5-138:19
+32        android:allowBackup="false"
+32-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:25:9-36
+33        android:debuggable="true"
+34        android:icon="@drawable/ic_launcher"
+34-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:26:9-45
+35        android:label="@string/app_name"
+35-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:27:9-41
+36        android:roundIcon="@mipmap/ic_launcher_round"
+36-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:28:9-54
+37        android:supportsRtl="true"
+37-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:29:9-35
+38        android:theme="@style/AppTheme" >
+38-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:30:9-40
+39        <activity android:name="com.example.poemzj.AddActivity" />
+39-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:31:9-58
+39-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:31:19-46
+40        <activity android:name="com.example.poemzj.SetActivity" />
+40-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:32:9-49
+40-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:32:19-46
+41        <activity android:name="com.example.poemzj.TempActivity" />
+41-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:33:9-50
+41-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:33:19-47
+42        <activity android:name="com.example.poemzj.PostActivity" />
+42-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:34:9-50
+42-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:34:19-47
+43        <activity android:name="com.example.poemzj.misc.MorexchangeActivity" />
+43-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:35:9-37:45
+43-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:36:13-53
+44        <activity android:name="com.example.poemzj.path.RecordActivity" />
+44-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:38:9-40:45
+44-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:39:13-48
+45        <activity android:name="com.example.poemzj.MessageActivity" />
+45-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:41:9-43:45
+45-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:42:13-44
+46
+47        <meta-data
+47-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:45:9-47:64
+48            android:name="com.amap.api.v2.apikey"
+48-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:46:13-50
+49            android:value="61d1db676e26499aa80dc08ef8ede399" /> <!-- input your amap key -->
+49-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:47:13-61
+50        <activity
+50-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:48:9-51:45
+51            android:name="com.example.poemzj.map.MapActivity"
+51-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:49:13-44
+52            android:screenOrientation="portrait" />
+52-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:50:13-49
+53        <activity android:name="com.example.poemzj.misc.SplashActivity" >
+53-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:52:9-60:20
+53-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:53:13-48
+54            <intent-filter>
+54-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:55:13-59:29
+55                <action android:name="android.intent.action.MAIN" />
+55-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:56:17-69
+55-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:56:25-66
+56
+57                <category android:name="android.intent.category.LAUNCHER" />
+57-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:58:17-77
+57-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:58:27-74
+58            </intent-filter>
+59        </activity>
+60        <activity android:name="com.example.poemzj.DiscoverActivity" />
+60-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:61:9-63:45
+60-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:62:13-45
+61        <activity android:name="com.example.poemzj.ChatActivity" />
+61-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:64:9-50
+61-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:64:19-47
+62        <activity
+62-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:65:9-68:45
+63            android:name="com.example.poemzj.SelfActivity"
+63-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:66:13-41
+64            android:screenOrientation="portrait" />
+64-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:67:13-49
+65        <activity
+65-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:69:9-72:45
+66            android:name="com.example.poemzj.map.RouteActivity"
+66-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:70:13-46
+67            android:screenOrientation="portrait" />
+67-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:71:13-49
+68        <activity
+68-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:73:9-76:45
+69            android:name="com.example.poemzj.map.NavigateActivity"
+69-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:74:13-49
+70            android:screenOrientation="portrait" />
+70-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:75:13-49
+71        <activity
+71-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:77:9-80:45
+72            android:name="com.example.poemzj.map.SearchActivity"
+72-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:78:13-47
+73            android:screenOrientation="portrait" />
+73-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:79:13-49
+74        <activity
+74-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:81:9-84:45
+75            android:name="com.example.poemzj.LoginActivity"
+75-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:82:13-42
+76            android:screenOrientation="portrait" />
+76-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:83:13-49
+77        <activity
+77-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:85:9-88:45
+78            android:name="com.example.poemzj.RegisterActivity"
+78-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:86:13-45
+79            android:screenOrientation="portrait" />
+79-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:87:13-49
+80        <activity
+80-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:89:9-92:45
+81            android:name="com.example.poemzj.user.ForgetPWActivity"
+81-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:90:13-50
+82            android:screenOrientation="portrait" />
+82-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:91:13-49
+83        <activity
+83-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:93:9-96:45
+84            android:name="com.example.poemzj.map.MapheaderActivity"
+84-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:94:13-50
+85            android:screenOrientation="portrait" />
+85-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:95:13-49
+86        <activity
+86-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:97:9-100:45
+87            android:name="com.example.poemzj.map.LocationShareActivity"
+87-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:98:13-54
+88            android:screenOrientation="portrait" />
+88-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:99:13-49
+89        <activity
+89-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:101:9-105:45
+90            android:name="com.example.poemzj.user.UserInfoActivity"
+90-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:102:13-50
+91            android:label="@string/title_activity_user"
+91-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:103:13-56
+92            android:theme="@style/AppTheme" />
+92-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:104:13-44
+93        <activity
+93-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:106:9-110:45
+94            android:name="com.example.poemzj.misc.AboutActivity"
+94-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:107:13-47
+95            android:label="@string/title_activity_about"
+95-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:108:13-57
+96            android:theme="@style/AppTheme" />
+96-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:109:13-44
+97        <activity
+97-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:111:9-115:45
+98            android:name="com.example.poemzj.misc.FeedbackActivity"
+98-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:112:13-50
+99            android:label="@string/title_activity_feed"
+99-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:113:13-56
+100            android:theme="@style/AppTheme" />
+100-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:114:13-44
+101        <activity
+101-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:116:9-120:45
+102            android:name="com.example.poemzj.path.HisrotyLocationActivity"
+102-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:117:13-57
+103            android:label="@string/title_activity_gps"
+103-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:118:13-55
+104            android:theme="@style/AppTheme" />
+104-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:119:13-44
+105        <activity
+105-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:121:9-125:45
+106            android:name="com.example.poemzj.path.HistoryPathListActivity"
+106-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:122:13-57
+107            android:label="@string/title_activity_history"
+107-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:123:13-59
+108            android:theme="@style/AppTheme" />
+108-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:124:13-44
+109        <activity
+109-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:126:9-130:45
+110            android:name="com.example.poemzj.path.PathResultActivity"
+110-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:127:13-52
+111            android:label="@string/title_activity_path_result"
+111-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:128:13-63
+112            android:theme="@style/AppTheme" />
+112-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:129:13-44
+113        <activity
+113-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:131:9-135:45
+114            android:name="com.example.poemzj.path.PathRecordActivity"
+114-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:132:13-52
+115            android:label="@string/title_activity_path"
+115-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:133:13-56
+116            android:theme="@style/AppTheme" />
+116-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:134:13-44
+117
+118        <service android:name="com.amap.api.location.APSService" />
+118-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:137:9-68
+118-->E:\Code\Android\You\app\src\main\AndroidManifest.xml:137:18-65
+119    </application>
+120
+121</manifest>

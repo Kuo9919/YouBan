@@ -1,0 +1,730 @@
+[
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_history.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_history.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_near_me_white_48dp.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\ic_near_me_white_48dp.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_history.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_history.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_coin.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\coin.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_path.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_path.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_gps.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\ic_gps.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_path_run.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_path_run.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_record.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\layout\\activity_record.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_path_record.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\layout\\activity_path_record.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_user.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_user.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_path_run.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_path_run.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_temp.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\layout\\activity_temp.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_user_color.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_user_color.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_path.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_path.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_starbucks.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\starbucks.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_self.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\layout\\activity_self.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\menu_toolbar_menu.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\menu\\toolbar_menu.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_login.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_login.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_swap_vert_white_48dp.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\ic_swap_vert_white_48dp.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_to.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\ic_to.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\ic_add.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_about.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_about.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_path_run.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_path_run.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_item_message.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\layout-v21\\item_message.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_map.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_map.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_about.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_about.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\ic_home.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_share.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_share.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_map.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_coin2.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\coin2.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_user_color.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_user_color.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_navigate.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\layout\\activity_navigate.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_share.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\share.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_history.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_history.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_message.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\message.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_scan1.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\ic_scan1.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_login.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_login.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_black_48dp.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\ic_menu_black_48dp.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_tip_poi.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\layout\\item_tip_poi.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_detail.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\layout\\item_detail.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_route.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\layout\\activity_route.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_path.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_path.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_et_shape.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\et_shape.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_login.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_login.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_user_list.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\layout\\item_user_list.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_share.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_share.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_user.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_user.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\layout_path_detail.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\layout\\path_detail.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\layout_map_header.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\layout\\map_header.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_path.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_path.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_share.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_share.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_discover.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\layout\\activity_discover.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_feedback.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_feedback.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_datepicker_dialog.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\layout\\layout_datepicker_dialog.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_feedback.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_feedback.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_user.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_user.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_about.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_about.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_path_run.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_path_run.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lv2.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\lv2.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_msg_list.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\layout\\item_msg_list.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_si_glyph_adjustment_horizon.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\si_glyph_adjustment_horizon.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_single.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\ic_menu_single.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_wb_incandescent_black_48dp.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\ic_wb_incandescent_black_48dp.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_set.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\layout\\activity_set.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_user.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_user.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_login.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_login.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_map.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_map.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_post.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\layout\\activity_post.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_ex1.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\icon_ex1.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_info.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\layout\\activity_user_info.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_map.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_map.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_path.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\layout\\item_path.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_search.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_feedback.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_feedback.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_message.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\layout\\activity_message.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_feedback.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_feedback.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_addimage.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\ic_addimage.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_voice.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\ic_voice.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_path.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_path.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_path_run.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_path_run.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_map.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_map.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_user.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_user.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\ic_menu.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_about.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_about.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_feed_back.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\layout\\activity_feed_back.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_directions_white_48dp.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\ic_directions_white_48dp.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_user.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_user.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_boy.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\ic_boy.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_gril.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\ic_gril.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_zb.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\zb.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_activity_path_result.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\layout-v21\\activity_path_result.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_path_run.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_path_run.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_feedback.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_feedback.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_loginout.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\loginout.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_history.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_history.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_user_color.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_user_color.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg1.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\bg1.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_moment.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\background_moment.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_my_location_black_48dp.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\ic_my_location_black_48dp.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_moment.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\ic_moment.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_path.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_path.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_user_color.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_user_color.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bubble.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\bubble.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_user.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_user.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_set.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\ic_set.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_feedback.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_feedback.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu1.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\ic_menu1.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_map.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\map.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_path_result.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\layout\\activity_path_result.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_share.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_share.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back0.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\back0.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_path_run.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_path_run.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_login.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_login.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_traffic_black_48dp.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\ic_traffic_black_48dp.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_aite.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\ic_aite.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_location_share.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\layout\\activity_location_share.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_forgetpw.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\layout\\activity_forgetpw.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lv1.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\lv1.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_admin.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\icon_admin.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_share.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_share.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_satellite_black_48dp.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\ic_satellite_black_48dp.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_starbucks2.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\starbucks2.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_safe.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\icon_safe.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_about.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_about.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_login.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_login.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_shape.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\btn_shape.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_about.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_about.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\menu_map_menu.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\menu\\map_menu.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_history_path_list.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\layout\\activity_history_path_list.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_map.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_map.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_map_black_48dp.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\ic_map_black_48dp.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_msg_item.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\layout-v21\\msg_item.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher2.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\ic_launcher2.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_path_list.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\layout\\item_path_list.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_user_color.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_user_color.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_morexchange.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\layout\\activity_morexchange.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_progressbar.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\progressbar.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_history.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_history.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_map.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_map.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_history.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_history.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_map.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_map.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fx_user_name.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\fx_user_name.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_feedback.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_feedback.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_hisroty_location.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\layout\\activity_hisroty_location.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_path.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_path.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\layout\\activity_add.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rectangle.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\rectangle.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tv_shape.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\tv_shape.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_user_color.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_user_color.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_share.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_share.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_activity_map.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\layout-v21\\activity_map.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_share.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_share.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_login.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_login.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_user_color.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_user_color.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_history.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_history.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_about.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_about.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_me.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\me.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_friend.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\ic_add_friend.png"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chat.xml.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "E:\\Code\\Android\\You\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_scan.png.flat",
+        "source": "E:\\Code\\Android\\You\\app\\src\\main\\res\\drawable\\ic_scan.png"
+    }
+]

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".path.PathRecordActivity">
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+        <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:orientation="horizontal">
+
+            <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                <TextView
+                        android:id="@+id/record_t1"
+                        android:layout_width="85dp"
+                        android:layout_height="32dp"
+                        android:layout_gravity="center_horizontal|center_vertical"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        android:text="路径标识"
+                        android:textAlignment="center"
+                        android:textColor="@color/colorPrimary" />
+
+                <TextView
+                        android:id="@+id/record_t2"
+                        android:layout_width="85dp"
+                        android:layout_height="32dp"
+                        android:layout_gravity="center_horizontal|center_vertical"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        android:text="0"
+                        android:textAlignment="center"
+                        android:textColor="@android:color/black"
+                        android:textSize="15sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                <TextView
+                        android:id="@+id/record_t3"
+                        android:layout_width="85dp"
+                        android:layout_height="32dp"
+                        android:layout_gravity="center_horizontal|center_vertical"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        android:text="时间"
+                        android:textAlignment="center"
+                        android:textColor="@color/colorPrimary" />
+
+                <TextView
+                        android:id="@+id/record_t4"
+                        android:layout_width="85dp"
+                        android:layout_height="32dp"
+                        android:layout_gravity="center_horizontal|center_vertical"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        android:text="00:00"
+                        android:textAlignment="center"
+                        android:textColor="@android:color/black"
+                        android:textSize="15sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                <TextView
+                        android:id="@+id/record_t5"
+                        android:layout_width="85dp"
+                        android:layout_height="32dp"
+                        android:layout_gravity="center_horizontal|center_vertical"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        android:text="距离"
+                        android:textAlignment="center"
+                        android:textColor="@color/colorPrimary" />
+
+                <TextView
+                        android:id="@+id/record_t6"
+                        android:layout_width="85dp"
+                        android:layout_height="32dp"
+                        android:layout_gravity="center_horizontal|center_vertical"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        android:text="0m"
+                        android:textAlignment="center"
+                        android:textColor="@android:color/black"
+                        android:textSize="15sp" />
+            </LinearLayout>
+
+            <Button
+                    android:id="@+id/record_button"
+                    style="@android:style/Widget.Material.Light.Button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:onClick="onButtonClick"
+                    android:text="开始" />
+        </LinearLayout>
+
+        <com.amap.api.maps.MapView
+                android:id="@+id/record_map"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"></com.amap.api.maps.MapView>
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

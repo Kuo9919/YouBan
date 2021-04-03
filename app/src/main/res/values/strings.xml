@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">游伴</string>
+    <string name="app_author">© Alan WZU 2020</string>
+    <string name="app_version">V 1.0.0.258</string>
+    <string name="app_copyright">Copyright© 2020-2021 Alan. All right Reserved</string>
+
+
+    <string name="username">用户名</string>
+    <string name="passwd">密  码</string>
+    <string name="login">登 录</string>
+    <string name="code">验证码</string>
+
+    <string name="menu_map">位置共享</string>
+    <string name="menu_gps">我的足迹</string>
+    <string name="menu_path">记录足迹</string>
+    <string name="menu_loginout">注 销</string>
+    <string name="menu_share">分享应用</string>
+    <string name="menu_feed">问题反馈</string>
+    <string name="menu_about">关于程序</string>
+    <string name="menu_checkup">检查更新</string>
+
+    <string name="title_activity_login">登录</string>
+    <string name="title_activity_Main">首页</string>
+    <string name="title_activity_Map">地图</string>
+    <string name="title_activity_user">个人信息</string>
+    <string name="title_activity_Self">个人</string>
+    <string name="title_activity_Navigate">导航</string>
+    <string name="title_activity_Route">路线</string>
+    <string name="title_activity_Search">搜寻</string>
+    <string name="title_activity_reg">注  册</string>
+    <string name="title_activity_path">记录足迹</string>
+    <string name="title_activity_path_result">记录结果</string>
+    <string name="title_activity_about">关于</string>
+    <string name="title_activity_feed">反馈</string>
+
+    <string name="title_activity_map">位置共享</string>
+    <string name="title_activity_history">我的足迹</string>
+    <string name="title_activity_gps">轨迹回放</string>
+
+    <string name="title_resetpassword">重置密码</string>
+    <string name="title_feedback">问题反馈</string>
+    <string name="title_userinfo">编辑资料</string>
+
+
+    <string name="user_id">用户ID</string>
+    <string name="user_name">昵  称</string>
+    <string name="user_passwd">密  码</string>
+    <string name="user_sign">签  名</string>
+    <string name="user_repasswd">确认密码</string>
+    <string name="user_birth">生 日</string>
+    <string name="user_sex">性 别</string>
+    <string name="user_gps">当前位置</string>
+    <string name="user_online">在 线</string>
+
+</resources>
